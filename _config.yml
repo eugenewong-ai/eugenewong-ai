@@ -1,5 +1,4 @@
-remote_theme: pages-themes/hacker
+theme: jekyll-theme-minimal
 title: [Can a robot outperform a human?] 
 description: [A deep dive into machine learning algorithms]
 
-theme: jekyll-theme-minimal
